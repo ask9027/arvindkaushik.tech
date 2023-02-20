@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(248, 245, 245);
+    font-family: 'system-ui', '-apple-system';
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    height: 180px;
+    width: 180px;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+h1 {
+    font-weight: bold;
+    color: rgb(201, 127, 29)
+}
